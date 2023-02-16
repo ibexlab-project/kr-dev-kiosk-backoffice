@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "806de229e95bdd94b74bf4633a61ccbf",
+  "assets/AssetManifest.json": "430aeafd04a7f56cd1234ced2b646902",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
 "assets/assets/fonts/NotoSans-SemiBold.ttf": "63bbc52e6ef89a5b1a50f1c9c4710d1b",
@@ -237,6 +237,7 @@ const RESOURCES = {
 "assets/assets/Heroicons/x.svg": "a4cb23952f30404ca07969d12171367c",
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
+"assets/assets/images/monki_logo.png": "e3313eeb09d5f028a4ccf260cc44f2d5",
 "assets/assets/images/yoshop_logo.svg": "9c97813647f48278f7a658139b7bf85e",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
@@ -984,9 +985,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "d431e12bbf699afd7c2855f89448faf2",
-"/": "d431e12bbf699afd7c2855f89448faf2",
-"main.dart.js": "0a3157bfe5a80ba8e800a17c0b220f30",
+"index.html": "5ac696c0886ed25e21fa4e3206ac7cba",
+"/": "5ac696c0886ed25e21fa4e3206ac7cba",
+"main.dart.js": "9524a7644f6c94c99dfb656d0170a181",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "217d7fb447932649693a97e4ce3f7150"
 };
