@@ -239,7 +239,7 @@ const RESOURCES = {
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
 "assets/assets/images/monki_logo.png": "e3313eeb09d5f028a4ccf260cc44f2d5",
-"assets/assets/images/yoshop_logo.svg": "63b1e700fbffeea508766f543d58869f",
+"assets/assets/images/yoshop_logo.svg": "9c97813647f48278f7a658139b7bf85e",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
 "assets/assets/svg/bi_credit-card.svg": "40a8cc416e8cb2b03cad19e37a29bc5d",
@@ -986,9 +986,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "6f4f9c89ef9d38fb14183a1f6291e12d",
 "icons/Icon-maskable-192.png": "cc22095d41591577eb126a80cdc34cb4",
 "icons/Icon-maskable-512.png": "108ef51f414a201473e0d5b63c2811bb",
-"index.html": "fc4ba87e8cb9cd526c9c81e5afd5996a",
-"/": "fc4ba87e8cb9cd526c9c81e5afd5996a",
-"main.dart.js": "2db7b1da8d59aae5f9603513816c43cf",
+"index.html": "16bdd0666c4e7f8e927def1b6b5c1b49",
+"/": "16bdd0666c4e7f8e927def1b6b5c1b49",
+"main.dart.js": "cf53474b6e017ddaf4ead44001e9ec2f",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
 "version.json": "9295016edddcb8272bc119b445d04f47"
 };
