@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "58672d86f7b6ff59d96762fa72375035",
+  "assets/AssetManifest.json": "f73ef32b33e0f707795df963b37c989d",
 "assets/assets/excel/importSample.xlsx": "90828138f9014fb0ef9b4a9ac7bb285c",
 "assets/assets/fonts/NotoSans-Bold.ttf": "8ac165243fb633296963b149f206a377",
 "assets/assets/fonts/NotoSans-Regular.ttf": "ac08e269b7f479624b266c0ea20013b4",
@@ -239,9 +239,11 @@ const RESOURCES = {
 "assets/assets/Heroicons/zoom-in.svg": "aa6b9961c0e8d5bda3e36562fda562c7",
 "assets/assets/Heroicons/zoom-out.svg": "a8867412a4c956608b8be5066386caab",
 "assets/assets/images/main_image_sample.png": "cb21200b78c5ea488a43bb6e8989c978",
+"assets/assets/images/monki_banner.png": "84164dcf136ed2a49c90ce49c38b140f",
+"assets/assets/images/monki_logo.png": "15e06cdb1acb93f1ecff3719a86e66b5",
 "assets/assets/images/monki_usa_logo.png": "8bfa081e8e21d494e4cae4f38e7ce678",
 "assets/assets/images/printer_barcode.png": "3c1b0113a55cc8b14b9e5514b845d4b8",
-"assets/assets/images/yoshop_logo.svg": "63b1e700fbffeea508766f543d58869f",
+"assets/assets/images/yoshop_logo.svg": "9c97813647f48278f7a658139b7bf85e",
 "assets/assets/images/ys_logo2.svg": "76fee40a0dbd94e88f829658a301294a",
 "assets/assets/images/ys_logo3.svg": "3859db0882c1327db5890d2039b0bd10",
 "assets/assets/svg/Basket.svg": "e3cb6f26030b7eb6f1c19c082521fdd5",
@@ -256,7 +258,7 @@ const RESOURCES = {
 "assets/assets/svg/Money.svg": "fa48a213780429d7d2e214d1ccc80f64",
 "assets/assets/svg/multi_payment.svg": "853d17eddcdcd2f88b0a0790a19eea6c",
 "assets/assets/svg/noncash.svg": "1da511c3ca10f85b5a6707581bfe7c3c",
-"assets/assets/svg/noun-clear.svg": "77978a5094a577ff246bfd4b69a40730",
+"assets/assets/svg/noun-clear.svg": "99b65d54ccd4268f04c32708194746d1",
 "assets/assets/svg/plus.svg": "c9a6a61641eb8fda6b642f538b1d4ecd",
 "assets/assets/svg/printer_barcode.svg": "6b78297844eaeea0c007d1b295fca247",
 "assets/assets/svg/Settings.svg": "641c095075478f95c3740c293392bd49",
@@ -996,13 +998,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "ad354ff23c2c6aca0ab685a2847f3ded",
 "icons/Icon-maskable-192.png": "d5d28c85382a2658157ac5fb040622d2",
 "icons/Icon-maskable-512.png": "e28acd36096e6ed4cbcc4cae1fcae75d",
-"index.html": "d3e1c8178b598ac16422753d6038d81d",
-"/": "d3e1c8178b598ac16422753d6038d81d",
+"index.html": "33ec48d7d42145e0af148ccd76b4bc89",
+"/": "33ec48d7d42145e0af148ccd76b4bc89",
 "index_kr.html": "5aec52ee07ec894bf54adb2df6b6bece",
 "index_us.html": "d372f1532c01bde79873cc5df106b24a",
-"main.dart.js": "3803e2f0e5de646ea19a3a726900a777",
+"main.dart.js": "21ebd6229d0673817197852515b58556",
 "manifest.json": "8a825e3be398a6793a13d96cd9154679",
-"run_http.bat": "9ae12fd34c8c3971ab0f779fa6a18b7d",
 "version.json": "9295016edddcb8272bc119b445d04f47"
 };
 
